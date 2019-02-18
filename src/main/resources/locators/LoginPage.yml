@@ -1,0 +1,2 @@
+BY_XPATH_SIGN_IN_WITH_GOOGLE_CTA: "XPATH_TBR_//android.widget.TextView[@text='SIGN IN WITH GOOGLE']"
+BY_ID_GMAIL_ACCOUNT_NAME: "ID_TBR_id com.google.android.gms:id/account_display_name"

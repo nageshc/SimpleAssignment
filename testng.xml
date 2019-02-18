@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sminq Test suite" >
+
+    <test name="LoginPage" preserve-order="true">
+        <classes>
+            <class name="tests.LoginTest"/>
+            <!--<class name="tests.SearchTest"/>-->
+            <!--<class name="tests.UploadStoryTest"/>-->
+        </classes>
+    </test>
+</suite>
